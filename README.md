@@ -117,10 +117,11 @@ Insight:
 Sales remain stable with visible growth in Q2 and Q4, suggesting seasonal demand fluctuations.
 These insights can help plan promotional campaigns more effectively.
 
-## Dashboard
 
 
-<img width="1920" height="1019" alt="product-sales-data-analysis-dashboard" src="![product_sales_dataanalysis_img](https://github.com/user-attachments/assets/81f049ac-9f20-4a7a-b3e2-887ea475a12f)
-" />
+## 📊 Product Sales Data Analysis Dashboard
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81f049ac-9f20-4a7a-b3e2-887ea475a12f" alt="product-sales-data-analysis-dashboard" width="900">
+</p>
 
